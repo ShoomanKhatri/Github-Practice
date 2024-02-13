@@ -1,2 +1,2 @@
-## Github-Practice
+# Github-Practice
 For practicing teamwork.
